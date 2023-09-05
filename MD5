@@ -1,0 +1,16 @@
+84e86517f323f6c100bb8f3efe5a68dd *DESCRIPTION
+24ea9ee21eea76f749be8db4aea5bf54 *NAMESPACE
+711c82de2f487f29906dbe81f4991c3d *R/bin.R
+3199fc012451ab55bf8c35f939c5254d *R/bins.R
+7efc743326b61e0da181926e1ee6eeb5 *R/gagblup.R
+3c6aa0bcfc0803cf99fe86685aeb0b5d *R/genotype.R
+2a26927f4da0e7178318f84e262d61c5 *R/import_packages.R
+8ae5c5d51ff013b551fe0da538e39c19 *R/phenotype.R
+23d567ad82fad8af43180285d436afcb *data/bins.RData
+9119e2ecdd1a6f3bf84abe75e3def025 *data/genotype.RData
+05ee9970e149d3173f17c772b3030518 *data/phenotype.RData
+908f5984f4796ffd32886ca7638f21f7 *man/bin.Rd
+a4a19e187413646bc4fbc1b54053f1d7 *man/bins.Rd
+66879e0259139de1e75432f438274979 *man/gagblup.Rd
+6bfd84a75cdf5c81847eb8b67cb44595 *man/genotype.Rd
+89b598e2442c06cce450705745dd8290 *man/phenotype.Rd
